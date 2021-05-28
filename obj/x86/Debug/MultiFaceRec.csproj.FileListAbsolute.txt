@@ -1,0 +1,237 @@
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\MultiFaceRec\bin\Debug\MultiFaceRec.exe
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\MultiFaceRec\bin\Debug\MultiFaceRec.pdb
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\MultiFaceRec\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\MultiFaceRec\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\MultiFaceRec\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\MultiFaceRec\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\MultiFaceRec\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\MultiFaceRec\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\MultiFaceRec\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\FaceRecPro\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\FaceRecPro\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\FaceRecPro\bin\Debug\MultiFaceRec.exe
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\FaceRecPro\bin\Debug\MultiFaceRec.pdb
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\FaceRecPro\bin\Debug\Emgu.CV.dll
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\FaceRecPro\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\FaceRecPro\bin\Debug\Emgu.Util.dll
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\FaceRecPro\bin\Debug\ZedGraph.dll
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\FaceRecPro\bin\Debug\Emgu.CV.xml
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\FaceRecPro\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\FaceRecPro\bin\Debug\Emgu.Util.xml
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\FaceRecPro\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\FaceRecPro\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\FaceRecPro\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\FaceRecPro\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\FaceRecPro\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\bin\Debug\MultiFaceRec.exe
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\bin\Debug\MultiFaceRec.pdb
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\bin\Debug\Emgu.CV.dll
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\bin\Debug\Emgu.Util.dll
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\bin\Debug\ZedGraph.dll
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\bin\Debug\Emgu.CV.xml
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\bin\Debug\Emgu.Util.xml
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro - copia\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro - copia\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro - copia\bin\Debug\MultiFaceRec.exe
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro - copia\bin\Debug\MultiFaceRec.pdb
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro - copia\bin\Debug\Emgu.CV.dll
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro - copia\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro - copia\bin\Debug\Emgu.Util.dll
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro - copia\bin\Debug\ZedGraph.dll
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro - copia\bin\Debug\Emgu.CV.xml
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro - copia\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro - copia\bin\Debug\Emgu.Util.xml
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro - copia\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro - copia\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro - copia\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro - copia\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro - copia\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecPro\FaceRecPro\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecPro\FaceRecPro\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecPro\FaceRecPro\bin\Debug\MultiFaceRec.exe
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecPro\FaceRecPro\bin\Debug\MultiFaceRec.pdb
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecPro\FaceRecPro\bin\Debug\Emgu.CV.xml
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecPro\FaceRecPro\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecPro\FaceRecPro\bin\Debug\Emgu.Util.xml
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecPro\FaceRecPro\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecPro\FaceRecPro\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecPro\FaceRecPro\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecPro\FaceRecPro\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecPro\FaceRecPro\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecProOV\FaceRecProOV\bin\Debug\MultiFaceRec.exe
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecProOV\FaceRecProOV\bin\Debug\MultiFaceRec.pdb
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecProOV\FaceRecProOV\bin\Debug\Emgu.CV.xml
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecProOV\FaceRecProOV\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecProOV\FaceRecProOV\bin\Debug\Emgu.Util.xml
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecProOV\FaceRecProOV\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecProOV\FaceRecProOV\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecProOV\FaceRecProOV\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Project_2012-2013\Face Recognition _n Authentication\research\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.exe
+D:\Project_2012-2013\Face Recognition _n Authentication\research\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.pdb
+D:\Project_2012-2013\Face Recognition _n Authentication\research\FaceRecProOV\FaceRecProOV\bin\Debug\MultiFaceRec.exe
+D:\Project_2012-2013\Face Recognition _n Authentication\research\FaceRecProOV\FaceRecProOV\bin\Debug\MultiFaceRec.pdb
+D:\Project_2012-2013\Face Recognition _n Authentication\research\FaceRecProOV\FaceRecProOV\bin\Debug\Emgu.Util.xml
+D:\Project_2012-2013\Face Recognition _n Authentication\research\FaceRecProOV\FaceRecProOV\bin\Debug\Emgu.CV.xml
+D:\Project_2012-2013\Face Recognition _n Authentication\research\FaceRecProOV\FaceRecProOV\bin\Debug\Emgu.CV.UI.xml
+D:\Project_2012-2013\Face Recognition _n Authentication\research\FaceRecProOV\FaceRecProOV\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project_2012-2013\Face Recognition _n Authentication\research\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+D:\Project_2012-2013\Face Recognition _n Authentication\research\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+D:\Project_2012-2013\Face Recognition _n Authentication\research\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.Cache
+E:\Project_2012-2013\Face Recognition _n Authentication\research\FaceRecProOV\FaceRecProOV\bin\Debug\MultiFaceRec.exe
+E:\Project_2012-2013\Face Recognition _n Authentication\research\FaceRecProOV\FaceRecProOV\bin\Debug\MultiFaceRec.pdb
+E:\Project_2012-2013\Face Recognition _n Authentication\research\FaceRecProOV\FaceRecProOV\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Project_2012-2013\Face Recognition _n Authentication\research\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+E:\Project_2012-2013\Face Recognition _n Authentication\research\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+E:\Project_2012-2013\Face Recognition _n Authentication\research\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.Cache
+E:\Project_2012-2013\Face Recognition _n Authentication\research\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.exe
+E:\Project_2012-2013\Face Recognition _n Authentication\research\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.pdb
+E:\Project_2012-2013\Face Recognition _n Authentication\research\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.Form1.resources
+D:\Chintan's Projects\New_Final\FaceRecProOV\obj\x86\Debug\MultiFaceRec.exe
+D:\Chintan's Projects\New_Final\FaceRecProOV\obj\x86\Debug\MultiFaceRec.pdb
+D:\Chintan's Projects\New_Final\FaceRecProOV\bin\Debug\MultiFaceRec.exe
+D:\Chintan's Projects\New_Final\FaceRecProOV\bin\Debug\MultiFaceRec.pdb
+D:\Chintan's Projects\New_Final\FaceRecProOV\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Chintan's Projects\New_Final\FaceRecProOV\obj\x86\Debug\MultiFaceRec.Form1.resources
+D:\Chintan's Projects\New_Final\FaceRecProOV\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+D:\Chintan's Projects\New_Final\FaceRecProOV\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+D:\Chintan's Projects\New_Final\FaceRecProOV\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.Cache
+D:\Chintan's Projects\New_Final\FaceRecProOV\bin\Debug\MultiFaceRec.exe.config
+D:\Chintan's Projects\New_Final\FaceRecProOV\obj\x86\Debug\MultiFaceRec.frmReport.resources
+D:\Chintan's Projects\New_Final\FaceRecProOV\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Chintan's Projects\New_Final\FaceRecProOV\bin\Debug\office.dll
+D:\Chintan's Projects\New_Final\FaceRecProOV\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Chintan's Projects\New_Final\FaceRecProOV\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Chintan's Projects\New_Final\FaceRecProOV\bin\Debug\office.xml
+D:\Data\Face detection research\face_attecndance\New_Final\FaceRecProOV\bin\Debug\MultiFaceRec.exe.config
+D:\Data\Face detection research\face_attecndance\New_Final\FaceRecProOV\obj\x86\Debug\MultiFaceRec.exe
+D:\Data\Face detection research\face_attecndance\New_Final\FaceRecProOV\obj\x86\Debug\MultiFaceRec.pdb
+D:\Data\Face detection research\face_attecndance\New_Final\FaceRecProOV\bin\Debug\MultiFaceRec.exe
+D:\Data\Face detection research\face_attecndance\New_Final\FaceRecProOV\bin\Debug\MultiFaceRec.pdb
+D:\Data\Face detection research\face_attecndance\New_Final\FaceRecProOV\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Data\Face detection research\face_attecndance\New_Final\FaceRecProOV\obj\x86\Debug\MultiFaceRec.Form1.resources
+D:\Data\Face detection research\face_attecndance\New_Final\FaceRecProOV\obj\x86\Debug\MultiFaceRec.frmReport.resources
+D:\Data\Face detection research\face_attecndance\New_Final\FaceRecProOV\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+D:\Data\Face detection research\face_attecndance\New_Final\FaceRecProOV\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+D:\Data\Face detection research\face_attecndance\New_Final\FaceRecProOV\obj\x86\Debug\ResGen.read.1.tlog
+D:\Data\Face detection research\face_attecndance\New_Final\FaceRecProOV\obj\x86\Debug\ResGen.write.1.tlog
+E:\ProjectIdeas_9-12-10\Stage1 for alll projects\face recogntion and attendance\Final_Final\face_attecndance_withEmail\face_attecndance_withEmail\New_Final\FaceRecProOV\bin\Debug\MultiFaceRec.exe.config
+E:\ProjectIdeas_9-12-10\Stage1 for alll projects\face recogntion and attendance\Final_Final\face_attecndance_withEmail\face_attecndance_withEmail\New_Final\FaceRecProOV\obj\x86\Debug\MultiFaceRec.exe
+E:\ProjectIdeas_9-12-10\Stage1 for alll projects\face recogntion and attendance\Final_Final\face_attecndance_withEmail\face_attecndance_withEmail\New_Final\FaceRecProOV\obj\x86\Debug\MultiFaceRec.pdb
+E:\ProjectIdeas_9-12-10\Stage1 for alll projects\face recogntion and attendance\Final_Final\face_attecndance_withEmail\face_attecndance_withEmail\New_Final\FaceRecProOV\bin\Debug\MultiFaceRec.exe
+E:\ProjectIdeas_9-12-10\Stage1 for alll projects\face recogntion and attendance\Final_Final\face_attecndance_withEmail\face_attecndance_withEmail\New_Final\FaceRecProOV\bin\Debug\MultiFaceRec.pdb
+E:\ProjectIdeas_9-12-10\Stage1 for alll projects\face recogntion and attendance\Final_Final\face_attecndance_withEmail\face_attecndance_withEmail\New_Final\FaceRecProOV\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\ProjectIdeas_9-12-10\Stage1 for alll projects\face recogntion and attendance\Final_Final\face_attecndance_withEmail\face_attecndance_withEmail\New_Final\FaceRecProOV\bin\Debug\office.dll
+E:\ProjectIdeas_9-12-10\Stage1 for alll projects\face recogntion and attendance\Final_Final\face_attecndance_withEmail\face_attecndance_withEmail\New_Final\FaceRecProOV\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\ProjectIdeas_9-12-10\Stage1 for alll projects\face recogntion and attendance\Final_Final\face_attecndance_withEmail\face_attecndance_withEmail\New_Final\FaceRecProOV\bin\Debug\Microsoft.Office.Interop.Excel.xml
+E:\ProjectIdeas_9-12-10\Stage1 for alll projects\face recogntion and attendance\Final_Final\face_attecndance_withEmail\face_attecndance_withEmail\New_Final\FaceRecProOV\bin\Debug\office.xml
+E:\ProjectIdeas_9-12-10\Stage1 for alll projects\face recogntion and attendance\Final_Final\face_attecndance_withEmail\face_attecndance_withEmail\New_Final\FaceRecProOV\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\ProjectIdeas_9-12-10\Stage1 for alll projects\face recogntion and attendance\Final_Final\face_attecndance_withEmail\face_attecndance_withEmail\New_Final\FaceRecProOV\obj\x86\Debug\MultiFaceRec.Form1.resources
+E:\ProjectIdeas_9-12-10\Stage1 for alll projects\face recogntion and attendance\Final_Final\face_attecndance_withEmail\face_attecndance_withEmail\New_Final\FaceRecProOV\obj\x86\Debug\MultiFaceRec.frmReport.resources
+E:\ProjectIdeas_9-12-10\Stage1 for alll projects\face recogntion and attendance\Final_Final\face_attecndance_withEmail\face_attecndance_withEmail\New_Final\FaceRecProOV\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+E:\ProjectIdeas_9-12-10\Stage1 for alll projects\face recogntion and attendance\Final_Final\face_attecndance_withEmail\face_attecndance_withEmail\New_Final\FaceRecProOV\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+E:\ProjectIdeas_9-12-10\Stage1 for alll projects\face recogntion and attendance\Final_Final\face_attecndance_withEmail\face_attecndance_withEmail\New_Final\FaceRecProOV\obj\x86\Debug\ResGen.read.1.tlog
+E:\ProjectIdeas_9-12-10\Stage1 for alll projects\face recogntion and attendance\Final_Final\face_attecndance_withEmail\face_attecndance_withEmail\New_Final\FaceRecProOV\obj\x86\Debug\ResGen.write.1.tlog
+F:\final project\face_attecndance_withEmail\New_Final\FaceRecProOV\bin\Debug\MultiFaceRec.exe.config
+F:\final project\face_attecndance_withEmail\New_Final\FaceRecProOV\obj\x86\Debug\MultiFaceRec.exe
+F:\final project\face_attecndance_withEmail\New_Final\FaceRecProOV\obj\x86\Debug\MultiFaceRec.pdb
+F:\final project\face_attecndance_withEmail\New_Final\FaceRecProOV\bin\Debug\MultiFaceRec.exe
+F:\final project\face_attecndance_withEmail\New_Final\FaceRecProOV\bin\Debug\MultiFaceRec.pdb
+F:\final project\face_attecndance_withEmail\New_Final\FaceRecProOV\bin\Debug\office.dll
+F:\final project\face_attecndance_withEmail\New_Final\FaceRecProOV\bin\Debug\Microsoft.Vbe.Interop.dll
+F:\final project\face_attecndance_withEmail\New_Final\FaceRecProOV\bin\Debug\Microsoft.Office.Interop.Excel.xml
+F:\final project\face_attecndance_withEmail\New_Final\FaceRecProOV\bin\Debug\office.xml
+F:\final project\face_attecndance_withEmail\New_Final\FaceRecProOV\obj\x86\Debug\MultiFaceRec.csprojResolveAssemblyReference.cache
+F:\final project\face_attecndance_withEmail\New_Final\FaceRecProOV\obj\x86\Debug\MultiFaceRec.Form1.resources
+F:\final project\face_attecndance_withEmail\New_Final\FaceRecProOV\obj\x86\Debug\MultiFaceRec.frmReport.resources
+F:\final project\face_attecndance_withEmail\New_Final\FaceRecProOV\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+F:\final project\face_attecndance_withEmail\New_Final\FaceRecProOV\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+F:\final project\face_attecndance_withEmail\New_Final\FaceRecProOV\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.Cache
+F:\My files(D)\Jayesh\Sem-VIII\BE Project\Partial Face Recogination\final project\face_attecndance_withEmail\New_Final\FaceRecProOV\bin\Debug\MultiFaceRec.exe.config
+F:\My files(D)\Jayesh\Sem-VIII\BE Project\Partial Face Recogination\final project\face_attecndance_withEmail\New_Final\FaceRecProOV\obj\x86\Debug\MultiFaceRec.exe
+F:\My files(D)\Jayesh\Sem-VIII\BE Project\Partial Face Recogination\final project\face_attecndance_withEmail\New_Final\FaceRecProOV\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Pritam\Desktop\Partial Face Recogination\final project\face_attecndance_withEmail\New_Final\FaceRecProOV\bin\Debug\MultiFaceRec.exe.config
+C:\Users\Pritam\Desktop\Partial Face Recogination\final project\face_attecndance_withEmail\New_Final\FaceRecProOV\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Pritam\Desktop\Partial Face Recogination\final project\face_attecndance_withEmail\New_Final\FaceRecProOV\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Pritam\Desktop\Partial Face Recogination\final project\face_attecndance_withEmail\New_Final\FaceRecProOV\bin\Debug\MultiFaceRec.exe
+C:\Users\Pritam\Desktop\Partial Face Recogination\final project\face_attecndance_withEmail\New_Final\FaceRecProOV\bin\Debug\MultiFaceRec.pdb
+C:\Users\Pritam\Desktop\Partial Face Recogination\final project\face_attecndance_withEmail\New_Final\FaceRecProOV\bin\Debug\office.dll
+C:\Users\Pritam\Desktop\Partial Face Recogination\final project\face_attecndance_withEmail\New_Final\FaceRecProOV\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Pritam\Desktop\Partial Face Recogination\final project\face_attecndance_withEmail\New_Final\FaceRecProOV\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Pritam\Desktop\Partial Face Recogination\final project\face_attecndance_withEmail\New_Final\FaceRecProOV\bin\Debug\office.xml
+C:\Users\Pritam\Desktop\Partial Face Recogination\final project\face_attecndance_withEmail\New_Final\FaceRecProOV\obj\x86\Debug\MultiFaceRec.csprojResolveAssemblyReference.cache
+C:\Users\Pritam\Desktop\Partial Face Recogination\final project\face_attecndance_withEmail\New_Final\FaceRecProOV\obj\x86\Debug\MultiFaceRec.Form1.resources
+C:\Users\Pritam\Desktop\Partial Face Recogination\final project\face_attecndance_withEmail\New_Final\FaceRecProOV\obj\x86\Debug\MultiFaceRec.frmReport.resources
+C:\Users\Pritam\Desktop\Partial Face Recogination\final project\face_attecndance_withEmail\New_Final\FaceRecProOV\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\Pritam\Desktop\Partial Face Recogination\final project\face_attecndance_withEmail\New_Final\FaceRecProOV\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Pritam\Desktop\Partial Face Recogination\final project\face_attecndance_withEmail\New_Final\FaceRecProOV\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.Cache
+C:\Users\SUNIDHI\Desktop\Partial Face Rec\Partial Face Recogination-20180115T003605Z-001\Partial Face Recogination\final project\face_attecndance_withEmail\New_Final\FaceRecProOV\bin\Debug\MultiFaceRec.exe.config
+C:\Users\SUNIDHI\Desktop\Partial Face Rec\Partial Face Recogination-20180115T003605Z-001\Partial Face Recogination\final project\face_attecndance_withEmail\New_Final\FaceRecProOV\bin\Debug\MultiFaceRec.exe
+C:\Users\SUNIDHI\Desktop\Partial Face Rec\Partial Face Recogination-20180115T003605Z-001\Partial Face Recogination\final project\face_attecndance_withEmail\New_Final\FaceRecProOV\bin\Debug\MultiFaceRec.pdb
+C:\Users\SUNIDHI\Desktop\Partial Face Rec\Partial Face Recogination-20180115T003605Z-001\Partial Face Recogination\final project\face_attecndance_withEmail\New_Final\FaceRecProOV\bin\Debug\office.dll
+C:\Users\SUNIDHI\Desktop\Partial Face Rec\Partial Face Recogination-20180115T003605Z-001\Partial Face Recogination\final project\face_attecndance_withEmail\New_Final\FaceRecProOV\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\SUNIDHI\Desktop\Partial Face Rec\Partial Face Recogination-20180115T003605Z-001\Partial Face Recogination\final project\face_attecndance_withEmail\New_Final\FaceRecProOV\bin\Debug\stdole.dll
+C:\Users\SUNIDHI\Desktop\Partial Face Rec\Partial Face Recogination-20180115T003605Z-001\Partial Face Recogination\final project\face_attecndance_withEmail\New_Final\FaceRecProOV\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\SUNIDHI\Desktop\Partial Face Rec\Partial Face Recogination-20180115T003605Z-001\Partial Face Recogination\final project\face_attecndance_withEmail\New_Final\FaceRecProOV\bin\Debug\office.xml
+C:\Users\SUNIDHI\Desktop\Partial Face Rec\Partial Face Recogination-20180115T003605Z-001\Partial Face Recogination\final project\face_attecndance_withEmail\New_Final\FaceRecProOV\obj\x86\Debug\MultiFaceRec.csprojResolveAssemblyReference.cache
+C:\Users\SUNIDHI\Desktop\Partial Face Rec\Partial Face Recogination-20180115T003605Z-001\Partial Face Recogination\final project\face_attecndance_withEmail\New_Final\FaceRecProOV\obj\x86\Debug\MultiFaceRec.Form1.resources
+C:\Users\SUNIDHI\Desktop\Partial Face Rec\Partial Face Recogination-20180115T003605Z-001\Partial Face Recogination\final project\face_attecndance_withEmail\New_Final\FaceRecProOV\obj\x86\Debug\MultiFaceRec.frmReport.resources
+C:\Users\SUNIDHI\Desktop\Partial Face Rec\Partial Face Recogination-20180115T003605Z-001\Partial Face Recogination\final project\face_attecndance_withEmail\New_Final\FaceRecProOV\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\SUNIDHI\Desktop\Partial Face Rec\Partial Face Recogination-20180115T003605Z-001\Partial Face Recogination\final project\face_attecndance_withEmail\New_Final\FaceRecProOV\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\SUNIDHI\Desktop\Partial Face Rec\Partial Face Recogination-20180115T003605Z-001\Partial Face Recogination\final project\face_attecndance_withEmail\New_Final\FaceRecProOV\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.Cache
+C:\Users\SUNIDHI\Desktop\Partial Face Rec\Partial Face Recogination-20180115T003605Z-001\Partial Face Recogination\final project\face_attecndance_withEmail\New_Final\FaceRecProOV\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\SUNIDHI\Desktop\Partial Face Rec\Partial Face Recogination-20180115T003605Z-001\Partial Face Recogination\final project\face_attecndance_withEmail\New_Final\FaceRecProOV\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\SUNIDHI\Desktop\Desktop Data\Partial Face Rec\Partial Face Recogination-20180115T003605Z-001\Partial Face Recogination\final project\face_attecndance_withEmail\New_Final\FaceRecProOV\bin\Debug\DataBase\FaceReg.accdb
+C:\Users\SUNIDHI\Desktop\Desktop Data\Partial Face Rec\Partial Face Recogination-20180115T003605Z-001\Partial Face Recogination\final project\face_attecndance_withEmail\New_Final\FaceRecProOV\bin\Debug\MultiFaceRec.exe.config
+C:\Users\SUNIDHI\Desktop\Desktop Data\Partial Face Rec\Partial Face Recogination-20180115T003605Z-001\Partial Face Recogination\final project\face_attecndance_withEmail\New_Final\FaceRecProOV\bin\Debug\MultiFaceRec.exe
+C:\Users\SUNIDHI\Desktop\Desktop Data\Partial Face Rec\Partial Face Recogination-20180115T003605Z-001\Partial Face Recogination\final project\face_attecndance_withEmail\New_Final\FaceRecProOV\bin\Debug\MultiFaceRec.pdb
+C:\Users\SUNIDHI\Desktop\Desktop Data\Partial Face Rec\Partial Face Recogination-20180115T003605Z-001\Partial Face Recogination\final project\face_attecndance_withEmail\New_Final\FaceRecProOV\bin\Debug\office.dll
+C:\Users\SUNIDHI\Desktop\Desktop Data\Partial Face Rec\Partial Face Recogination-20180115T003605Z-001\Partial Face Recogination\final project\face_attecndance_withEmail\New_Final\FaceRecProOV\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\SUNIDHI\Desktop\Desktop Data\Partial Face Rec\Partial Face Recogination-20180115T003605Z-001\Partial Face Recogination\final project\face_attecndance_withEmail\New_Final\FaceRecProOV\bin\Debug\stdole.dll
+C:\Users\SUNIDHI\Desktop\Desktop Data\Partial Face Rec\Partial Face Recogination-20180115T003605Z-001\Partial Face Recogination\final project\face_attecndance_withEmail\New_Final\FaceRecProOV\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\SUNIDHI\Desktop\Desktop Data\Partial Face Rec\Partial Face Recogination-20180115T003605Z-001\Partial Face Recogination\final project\face_attecndance_withEmail\New_Final\FaceRecProOV\bin\Debug\office.xml
+C:\Users\SUNIDHI\Desktop\Desktop Data\Partial Face Rec\Partial Face Recogination-20180115T003605Z-001\Partial Face Recogination\final project\face_attecndance_withEmail\New_Final\FaceRecProOV\obj\x86\Debug\MultiFaceRec.csprojResolveAssemblyReference.cache
+C:\Users\SUNIDHI\Desktop\Desktop Data\Partial Face Rec\Partial Face Recogination-20180115T003605Z-001\Partial Face Recogination\final project\face_attecndance_withEmail\New_Final\FaceRecProOV\obj\x86\Debug\MultiFaceRec.Form1.resources
+C:\Users\SUNIDHI\Desktop\Desktop Data\Partial Face Rec\Partial Face Recogination-20180115T003605Z-001\Partial Face Recogination\final project\face_attecndance_withEmail\New_Final\FaceRecProOV\obj\x86\Debug\MultiFaceRec.frmReport.resources
+C:\Users\SUNIDHI\Desktop\Desktop Data\Partial Face Rec\Partial Face Recogination-20180115T003605Z-001\Partial Face Recogination\final project\face_attecndance_withEmail\New_Final\FaceRecProOV\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\SUNIDHI\Desktop\Desktop Data\Partial Face Rec\Partial Face Recogination-20180115T003605Z-001\Partial Face Recogination\final project\face_attecndance_withEmail\New_Final\FaceRecProOV\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\SUNIDHI\Desktop\Desktop Data\Partial Face Rec\Partial Face Recogination-20180115T003605Z-001\Partial Face Recogination\final project\face_attecndance_withEmail\New_Final\FaceRecProOV\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.Cache
+C:\Users\SUNIDHI\Desktop\Desktop Data\Partial Face Rec\Partial Face Recogination-20180115T003605Z-001\Partial Face Recogination\final project\face_attecndance_withEmail\New_Final\FaceRecProOV\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\SUNIDHI\Desktop\Desktop Data\Partial Face Rec\Partial Face Recogination-20180115T003605Z-001\Partial Face Recogination\final project\face_attecndance_withEmail\New_Final\FaceRecProOV\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\SUNIDHI\Desktop\Edit\FaceRecProOV\bin\Debug\obj\DataBase\FaceReg.accdb
+C:\Users\SUNIDHI\Desktop\Edit\FaceRecProOV\bin\Debug\MultiFaceRec.exe.config
+C:\Users\SUNIDHI\Desktop\Edit\FaceRecProOV\bin\Debug\MultiFaceRec.exe
+C:\Users\SUNIDHI\Desktop\Edit\FaceRecProOV\bin\Debug\MultiFaceRec.pdb
+C:\Users\SUNIDHI\Desktop\Edit\FaceRecProOV\obj\x86\Debug\MultiFaceRec.Form1.resources
+C:\Users\SUNIDHI\Desktop\Edit\FaceRecProOV\obj\x86\Debug\MultiFaceRec.frmReport.resources
+C:\Users\SUNIDHI\Desktop\Edit\FaceRecProOV\obj\x86\Debug\MultiFaceRec.frm_ForgotPassword.resources
+C:\Users\SUNIDHI\Desktop\Edit\FaceRecProOV\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\SUNIDHI\Desktop\Edit\FaceRecProOV\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\SUNIDHI\Desktop\Edit\FaceRecProOV\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.Cache
+C:\Users\SUNIDHI\Desktop\Edit\FaceRecProOV\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\SUNIDHI\Desktop\Edit\FaceRecProOV\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\mangesh pupala\Desktop\Final Project\Edit1\Edit\FaceRecProOV\bin\Debug\obj\DataBase\FaceReg.accdb
+C:\Users\mangesh pupala\Desktop\Final Project\Edit1\Edit\FaceRecProOV\bin\Debug\MultiFaceRec.exe.config
+C:\Users\mangesh pupala\Desktop\Final Project\Edit1\Edit\FaceRecProOV\bin\Debug\MultiFaceRec.exe
+C:\Users\mangesh pupala\Desktop\Final Project\Edit1\Edit\FaceRecProOV\bin\Debug\MultiFaceRec.pdb
+C:\Users\mangesh pupala\Desktop\Final Project\Edit1\Edit\FaceRecProOV\obj\x86\Debug\MultiFaceRec.csprojResolveAssemblyReference.cache
+C:\Users\mangesh pupala\Desktop\Final Project\Edit1\Edit\FaceRecProOV\obj\x86\Debug\MultiFaceRec.Form1.resources
+C:\Users\mangesh pupala\Desktop\Final Project\Edit1\Edit\FaceRecProOV\obj\x86\Debug\MultiFaceRec.frmReport.resources
+C:\Users\mangesh pupala\Desktop\Final Project\Edit1\Edit\FaceRecProOV\obj\x86\Debug\MultiFaceRec.frm_ForgotPassword.resources
+C:\Users\mangesh pupala\Desktop\Final Project\Edit1\Edit\FaceRecProOV\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\mangesh pupala\Desktop\Final Project\Edit1\Edit\FaceRecProOV\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\mangesh pupala\Desktop\Final Project\Edit1\Edit\FaceRecProOV\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.Cache
+C:\Users\mangesh pupala\Desktop\Final Project\Edit1\Edit\FaceRecProOV\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\mangesh pupala\Desktop\Final Project\Edit1\Edit\FaceRecProOV\obj\x86\Debug\MultiFaceRec.pdb
